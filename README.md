@@ -39,7 +39,7 @@ Building systems that learn and scale. Currently deep-diving into AI/ML, Compile
 
 ### 📊 My Coding Activity
 
-![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abh004&show_icons=true&theme=tokyonight)
 
 ---
 
