@@ -32,7 +32,6 @@ Building systems that learn and scale. Currently deep-diving into AI/ML, Compile
 
 - **[AudioDeepfakeDetection]**: A two-factor authentication system using Speaker Encoder CNNs and GAN-based biometric watermarking.
 - **[BengaluruMetro-Geospatial]**: Modeling property value impacts using Spatial Econometrics (SAR/SEM) and Gradient Boosting.
-- **[RetailManager]**: A full-stack electronics management platform built with Express and a robust PG schema.
 - **[Terminal-Portfolio]**: Building a dynamic terminal interface using Astro and Tailwind.
 
 ---
