@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 0xAbhi | Student & Developer @ PES University
+# Abhi | Student & Developer @ PES University
 
-Building systems that learn and scale. Currently deep-diving into AI/ML, Compiler Design, and making my terminal look better than my actual life.
+Currently deep-diving into AI/ML, Compiler Design, and making my terminal look better than my actual life.
 
 ---
 
@@ -42,7 +42,7 @@ Building systems that learn and scale. Currently deep-diving into AI/ML, Compile
 
 ---
 
-### 📫 Reach Me
+### 📫 About Me
 
 - **Currently Studying:** 6th Semester @ PES University
 - **Interests:** Compiler Design, ML, Tech and Linux Ricing.
